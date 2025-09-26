@@ -256,6 +256,16 @@ section {
     background: #dc2626;
 }
 
+.section-description {
+    text-align: center;
+    color: #6b7280;
+    font-size: 16px;
+    margin-bottom: 40px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* Products Section */
 .products {
     padding: 60px 0;
