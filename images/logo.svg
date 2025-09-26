@@ -1,0 +1,26 @@
+<svg width="150" height="60" viewBox="0 0 150 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="circleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e5e7eb;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#9ca3af;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6b7280;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- VIZ -->
+  <text x="5" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="url(#logoGradient)">VIZ</text>
+  
+  <!-- O Circle -->
+  <circle cx="60" cy="30" r="18" fill="url(#circleGradient)" stroke="#9ca3af" stroke-width="2"/>
+  <circle cx="60" cy="30" r="12" fill="none" stroke="#6b7280" stroke-width="1"/>
+  
+  <!-- NE -->
+  <text x="85" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="url(#logoGradient)">NE</text>
+  
+  <!-- Tagline -->
+  <text x="75" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="normal" fill="#6b7280">THE PREMIUM CHOICE YOUR TMT</text>
+</svg>
